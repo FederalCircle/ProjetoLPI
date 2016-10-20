@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1467514597 source:c:\users\yvson\desktop\alyson\projetos c\pac-man\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<dos.h>
+	"animacao.h"
+	"variaveis_globais.h"
+	"Mapa.h"
+	"func_movimento.h"
+
+1467512114 source:c:\users\yvson\desktop\alyson\projetos c\pac-man\animacao.c
+	"variaveis_globais.h"
+
+1467508032 c:\users\yvson\desktop\alyson\projetos c\pac-man\animacao.h
+
+1467514597 source:c:\users\yvson\desktop\alyson\projetos c\pac-man\variaveis_globais.c
+	<stdio.h>
+	<windows.h>
+
+1467514531 c:\users\yvson\desktop\alyson\projetos c\pac-man\variaveis_globais.h
+
+1467512114 source:c:\users\yvson\desktop\alyson\projetos c\pac-man\funcoes_tela.c
+
+1467513229 source:c:\users\yvson\desktop\alyson\projetos c\pac-man\mapa.c
+	"variaveis_globais.h"
+
+1467513229 c:\users\yvson\desktop\alyson\projetos c\pac-man\mapa.h
+
+1467513994 source:c:\users\yvson\desktop\alyson\projetos c\pac-man\func_movimento.c
+	<stdio.h>
+	<stdlib.h>
+	"variaveis_globais.h"
+
+1467513940 c:\users\yvson\desktop\alyson\projetos c\pac-man\func_movimento.h
+
